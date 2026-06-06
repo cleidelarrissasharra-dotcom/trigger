@@ -1,0 +1,6 @@
+{
+  "name": "QualiFLV Automação de Lotes",
+  "description": "Simulador interativo de banco de dados MySQL e automação de auditoria de descartes com triggers na gestão do estoque de FLV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
